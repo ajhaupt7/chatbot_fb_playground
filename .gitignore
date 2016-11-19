@@ -1,0 +1,6 @@
+npm-debug.log
+.DS_Store
+/*.env
+env.js
+/node_modules
+start-server.sh
